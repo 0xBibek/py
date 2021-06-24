@@ -23,7 +23,7 @@ def rashifal(name):
 		kun = khojiyo.find_all('p')[0].find_all(text=True, recursive=True)
 		rashidata = ''.join([str(elem) for elem in kun])
 		output = f'''
-Singha: {rashidata}
+Rashifal: {rashidata}
 	'''
 		return output
 	except:
