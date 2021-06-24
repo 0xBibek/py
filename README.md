@@ -1,7 +1,6 @@
-# Free API Lists
+# py 
 
-Useful API list, for Bots and Other testing purpose.
-
+Can be useful for Bots and other testing purpose.
 
 ### Example
 
