@@ -1,8 +1,9 @@
-import time
+##
+## Github: 0xbibek
+## Twitter: 0xbibek
+##
+
 import random
-import secrets
-import requests
-import json
 import string
 
 
